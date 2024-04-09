@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(../images/Travel-Quote-Just-Go.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 30% 30%;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+input{
+    display: block;
+    height: 55px;
+    width: 400px;margin: 10px;
+    border-radius: 30px;
+    border: 1px solid black;
+    font-size: 16pt;
+    padding-left: 6px;
+        
+}
+
+div#corpo-formulario{
+    /*background-color: aqua;*/
+    width: 400px;
+    margin: 300px auto  0px auto;
+}
+
+div#corpo-formulario h1{
+    text-align: center;
+    padding: 20px;
+}
+
